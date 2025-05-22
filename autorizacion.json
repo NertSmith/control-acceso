@@ -1,8 +1,5 @@
 {
-  "hash": "123456789",
-  "autorizados": [
-    "juan",
-    "andres",
-    "lucia"
+   "autorizados": [
+     "lucia"
   ]
 }
