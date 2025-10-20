@@ -12,7 +12,8 @@
       "usuario": "cliente_dos",
       "tipo": "licencia",
       "expira": "2027-01-15T12:00:00Z",
-      "firma": "firma_del_cliente_dos_aqui"
+      "firma": "firma_del_cliente_dos_aqui."
     }
   ]
 }
+
