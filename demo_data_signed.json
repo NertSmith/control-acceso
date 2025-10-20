@@ -1,7 +1,7 @@
 {
   "demos": [
     {
-    "usuario": "cliente_dos",
+    "usuario": "cliente_6",
     "id_dispositivo": "1d31102a9df32249590b66a4b7717f4aa98b09ffa61b6e7732c463b95674f243",
     "tipo": "demo",
     "expira": "2025-10-27T10:26:29Z",
@@ -9,11 +9,12 @@
 },
     {
       "id_dispositivo": "otro_fingerprint_diferente_del_segundo_cliente",
-      "usuario": "cliente_dos",
+      "usuario": "cliente_5",
       "tipo": "licencia",
       "expira": "2027-01-15T12:00:00Z",
       "firma": "firma_del_cliente_dos_aqui."
     }
   ]
 }
+
 
