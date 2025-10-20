@@ -1,10 +1,18 @@
 {
   "demos": [
     {
-    "id_dispositivo": "1d31102a9df32249590b66a4b7717f4aa98b09ffa61b6e7732c463b95674f243",
-    "tipo": "demo",
-    "expira": "2025-10-27T08:45:10Z",
-    "firma": "bOH5ygaYRb79Pd4EJNNXYkgi+AiLS7l9q1n6qIwAHsUiXs/Cux8HyrhZ5FGNtKrjXHKtGAmXislSW3O/6Hx8O+CuYodbwFtz6FTin+tx9dpQi8qTNdxtlOlHLTBK+kANxEKZUeZz1Rqoz2VqZ9XeR/W8vA99+250jW8oIxhA0qL2JNGsaTW+5wA7FpGvGjJCGiTUW61nUzm5XlFwKsoXUiKdtCzII3Etzw2gG++sEq1lfjJbQJdys9tLUdj06JMMlN9iAH8GqAInxXeu73WQguexdpzgp3ysRPyIPwcpzgcIh0bmyYJObER9IiUZ1+z/VX1TTRnOWPkeZaUaGISD2w=="
-}
+      "id_dispositivo": "1d31102a9df32249590b66a4b7717f4aa98b09ffa61b6e7732c463b95674f243",
+      "usuario": "cliente_uno",
+      "tipo": "demo",
+      "expira": "2026-10-20T23:59:59Z",
+      "firma": "firma_del_cliente_uno_aqui"
+    },
+    {
+      "id_dispositivo": "otro_fingerprint_diferente_del_segundo_cliente",
+      "usuario": "cliente_dos",
+      "tipo": "licencia",
+      "expira": "2027-01-15T12:00:00Z",
+      "firma": "firma_del_cliente_dos_aqui"
+    }
   ]
 }
