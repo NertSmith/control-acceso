@@ -1,12 +1,12 @@
 {
   "demos": [
     {
-      "id_dispositivo": "1d31102a9df32249590b66a4b7717f4aa98b09ffa61b6e7732c463b95674f243",
-      "usuario": "cliente_uno",
-      "tipo": "demo",
-      "expira": "2026-10-20T23:59:59Z",
-      "firma": "firma_del_cliente_uno_aqui"
-    },
+    "usuario": "cliente_dos",
+    "id_dispositivo": "1d31102a9df32249590b66a4b7717f4aa98b09ffa61b6e7732c463b95674f243",
+    "tipo": "demo",
+    "expira": "2025-10-27T10:26:29Z",
+    "firma": "i4twEYFySjcFNM4T4d6ndo1gCcmyUVD6lIV8cSyBF7HKety9ONoUQ1Su5aZeucO9hfB2N1GcUl+Nvpw6XdqG9SQrKX9oLNt9djLY+Xlqvhlnrnm1PHsa9cueTvhNzzw4ceHPk/ox3Lf0cxg0BOmK7XnvNQgJRCx3adQGsH0IGcw9GuOhnSnAfdwZCjyKTVEA5n7rqmR74edHdWCAPjrCwyUaluQggvdMSgiHDc+J8pM8WvQ8aJMmFKlx8c/NopQ+/A7YKTFsQw+SrFmQlwse2mkHNXmPSGQBuom/SvVRcqarp8WReiE0SII4kSXX4GxkdChyAR0QUBU/uFj6ysgV6A=="
+},
     {
       "id_dispositivo": "otro_fingerprint_diferente_del_segundo_cliente",
       "usuario": "cliente_dos",
@@ -16,3 +16,4 @@
     }
   ]
 }
+
