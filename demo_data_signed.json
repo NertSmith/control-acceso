@@ -1,11 +1,11 @@
 {
   "demos": [
     {
-      "id_dispositivo": "1d31102a9df32249590b66a4b7717f4aa98b09ffa61b6e7732c463b95674f243",
-      "usuario": "nombre_del_cliente_o_identificador",
-      "tipo": "demo",
-      "expira": "2026-10-20T23:59:59Z",
-      "firma": "la_firma_larga_en_base64_que_generaste_con_tu_script"
-    }
+    "id_dispositivo": "1d31102a9df32249590b66a4b7717f4aa98b09ffa61b6e7732c463b95674f243",
+    "tipo": "demo",
+    "expira": "2025-10-27T08:06:45Z",
+    "firma": "aahgRbJTBcpJa8Knuin0hNzsKdkVoeKkApQvX/GsC1w+avtGBTiCInyOmxZ6Kgy2fWgTlog1M2UrckNlt4S6t1CqE6JAitzYvmkHjDhHvI0zk+zHBFaxWyAHVQCp+3HoTt9ODytLyHJaVbtZZgnc0sbQ9NCw3RuDbKm2PS29OvGbNFxvF1JusknoIvN8E5JG5quFZQ+Ge0vAUGPwlAwXClBBQNpP4n+9MNaXa4R/d5XnnQ2I6fBdeYimIga0YjhTSk7LcpQEfBMkEzwF8UgDdBSKLB8NzWclmF0LMv3MKAdsXlwahL3cvYGKDeit6sSSEVlrT9itzCXokR8/rjOnZQ=="
+}
   ]
 }
+
