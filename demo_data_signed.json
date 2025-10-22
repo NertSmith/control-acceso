@@ -4,8 +4,8 @@
     "id_dispositivo": "b1ee126a2eba040fe518eddafde601f72072af56a3219a38731be9cee1f38ccf",
     "usuario": "Windows 10",
     "tipo": "demo",
-    "expira": "2025-10-29T15:01:18Z",
-    "firma": "rplCxQRHeBXL8qbBqplPtL8wQdaizBi6GgjPhNlxdZU9+M8pBjZig1DrsK2ulCh810xGIeFd8M15pqHxl/UAkmjfpEHGs3VImFNj2fPRI1fLsEBN/TeAhcbuyjtRATttUTPXtKFAYG81wvgthGb9Z6u+xxatKo361svDmo3vBQxvd9Fvifa8mHsU9dDk1D+wdRAUYGjuKPVG0gAO6az4JN8zIeXWwq9OMQqEYSPkhlh26x+/fIQ4LpskkjGYFlw4cWevnCqp+B8m/LeLEmAl0bk1xqKp1e+qeyE3T3dSYPkqTVhCBDk39ibEAAAAia2zeUhP7WrUHEOXqxkrITIzxg=="
+    "expira": "2025-10-29T15:09:18Z",
+    "firma": "T7DdbdlY4dIpiXn1k4uFWMOCpVF+ywkKriVZnxFndcpbh+0YhzhSoJ2mu4cjf7qtWpn7Y+gMC6lVPjuJQ+yf0d5BjF04TPQUQp5kHteNhgMzBmGfSQthxL5SYUmLnl75dM3v4GAEbsfPlBW1s+CW6lU4Rz614bKDm6zG96zE2SpJckEUen4nnj51aeTSXiErEEEL6r5AkBwdR4lXDKB6XGELMeN+92iBv2wlYqHT1IMHoylR+yZp8u/247PIc4+TuOUiCELL/IbXwRkyTYdWYq1nykl8QJO1TIIViFKrAnuE7/X7hlbHMROz6uqWzAw9cYn3Abg6TYdlh2pRlN52Lw=="
 },
     {
       "id_dispositivo": "hash_ficticio_de_otra_pc_cliente_abc123",
@@ -23,4 +23,5 @@
     }
   ]
 }
+
 
